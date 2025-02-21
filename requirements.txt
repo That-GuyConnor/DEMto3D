@@ -1,0 +1,7 @@
+numpy
+rasterio
+trimesh
+tqdm
+scipy
+scikit-image
+shapely
